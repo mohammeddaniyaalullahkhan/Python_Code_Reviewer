@@ -1,6 +1,6 @@
 # 🚀 Python Code Reviewer
 
-##[Python Code Reviewer APP](https://python-code-ai-reviewer-k4kzxnmvdzxxx8tise5et5.streamlit.app)
+##[Python Code Reviewer APP](https://mohammeddaniyaalullahkhan-python-code-reviewer-app-ol5wja.streamlit.app/)
 
 ## 📌 Project Overview
 This is a **Streamlit web application** that utilizes **Google Gemini AI** to review Python code. It analyzes the given Python script, detects errors, suggests optimizations, and provides a final rating based on best coding practices.
